@@ -1,9 +1,9 @@
 ---
-Title: About
-Description: This is our index page.
+Title: Om
+Description: This is my om page.
 ---
 
-About page
+Om
 ==========================
 
-About page
+Om
