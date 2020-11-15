@@ -4,5 +4,5 @@ Tagline: A decent web developer.
 Social:
     - title: Link till sidans github repo.
       url: https://github.com/simonking99/design-portfoilio-example
-      icon: github
+      icon: fab fa-github
 ---
