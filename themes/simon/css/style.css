@@ -7073,6 +7073,7 @@ h6 {
 
   .boxk {
     float: none;
+    display: none;
   }
 
   .texten {
@@ -7119,7 +7120,7 @@ h6 {
 }
 
 .boxk a:hover {
-  color: #bdff54;
+  color: #7CFC00;
 }
 
 .texten {
