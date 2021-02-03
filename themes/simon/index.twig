@@ -17,7 +17,11 @@
         <link rel="canonical" href="{{ current_page.url }}" />
     {% endif %}
 
+    {% if config.session.theme == "dark" %}
+    <link rel="stylesheet" href="{{ theme_url }}/css/style-dark.min.css" type="text/css" />
+    {% else %}
     <link rel="stylesheet" href="{{ theme_url }}/css/style.min.css" type="text/css" />
+    {% endif %}
 
 </head>
 <!-- "Widescreen-mode" can be activated in portfolio/config/config.yml -->
@@ -58,6 +62,7 @@
         </div>
     </div>
     <div class="main" role="main">
+        {{  dump( config.session)}}
         <div class="container">
             {{ content }}
         </div>
@@ -68,15 +73,10 @@
         {% for social in pages["_meta"].meta.social %}
             <a href="{{ social.url }}" title="{{ social.title }}" role="button">
                 <i class="{{ social.icon }}" aria-hidden="true"></i>
-                <i class="fab fa-github-alt" aria-hidden="true"></i>
-                <i class="fab fa-github-square"aria-hidden="true"></i>
                 <span class="sr-only">{{ social.title }}</span>
             </a>
         {% endfor %}
     </div>
-    <p>
-        En footer med lite text.
-    </p>
 </div>
     </div>
 
