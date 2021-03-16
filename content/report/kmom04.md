@@ -39,7 +39,7 @@ Kmom04
 <p>Kommentera kort om skrivuppgiften, något som är värt att nämna från arbetet med den?
 Känner att det var intressant att analysera olika hemsidor för att se vad de lägger fokus på att framhäva.</p>
 
-<p>Vilket färgschema valde du till ditt tema och hur valde du att använda färgerna (mer eller mindre eller lika mycket av alla färger)?I mitt vanliga tema så valde jag att behålla de färgerna jag hade från början eftersom de var redan alla ljusa. Mitt dark themes gjorde jag så att bakgrundsfärgen blev svart och att brödtexten blev lite mörkare vilket gjorde att hela webbsidan passade in bra i det mörka temat.<7p>
+<p>Vilket färgschema valde du till ditt tema och hur valde du att använda färgerna (mer eller mindre eller lika mycket av alla färger)?I mitt vanliga tema så valde jag att behålla de färgerna jag hade från början eftersom de var redan alla ljusa. Mitt dark themes gjorde jag så att bakgrundsfärgen blev svart och att brödtexten blev lite mörkare vilket gjorde att hela webbsidan passade in bra i det mörka temat.<p>
 
 <p>Valde du att jobba med accentfärg och isåfall hur?
 Nej. </p>
