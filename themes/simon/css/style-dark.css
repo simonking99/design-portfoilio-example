@@ -6584,15 +6584,15 @@ body {
 }
 
 .nav a, .nav-toggle {
-  color: #333;
+  color: #ffffff;
 }
 
 .nav .active a, .nav a:hover, .nav-toggle:hover {
-  color: #3b440d;
+  color: #ffffff;
 }
 
 .nav a:hover, .nav-toggle:hover {
-  color: #3b440d;
+  color: #ffffff;
   text-decoration: underline;
 }
 
@@ -6609,6 +6609,7 @@ body {
 
 .flash-img {
   height: 100%;
+  width: auto;
 }
 
 /*** BASIC LAYOUT: FOOTER ***/
@@ -6668,6 +6669,7 @@ body {
   .nav ul li a {
     display: block;
     padding: 0.5em 0;
+    color: #ffffff;
   }
 
   .js .nav-toggle {
@@ -6762,6 +6764,8 @@ h6 {
 
 img {
   max-width: 100%;
+  height: auto;
+  width: auto;
 }
 
 hr {
@@ -6825,6 +6829,7 @@ abbr {
 .image img {
   display: block;
   width: 100%;
+  height: auto;
 }
 
 @media (max-width: 767px) {
@@ -7058,6 +7063,18 @@ h5,
 h6 {
   font-family: "Open Sans", sans-serif;
   color: #fff;
+}
+
+.nav .active a, .nav a:hover, .nav-toggle:hover {
+  color: #ffffff;
+}
+
+a {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
 }
 
 .main {

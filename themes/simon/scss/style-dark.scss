@@ -25,6 +25,28 @@ h6 {
     color: #fff;
 }
 
+.nav .active a,
+.nav a:hover,
+.nav-toggle:hover {
+    color: #fff;
+}
+
+.nav ul li a {
+    color: #fff;
+}
+
+.container .title p {
+    color: #fff;
+}
+
+a {
+    color: #fff;
+}
+
+p {
+    color: #fff;
+}
+
 .main {
     background-color: $background-color;
 }
@@ -39,6 +61,10 @@ h6 {
 
 .footer {
     background-color: $background-color;
+}
+
+body .main {
+    color: #fff;
 }
 
 div .kmom-box {

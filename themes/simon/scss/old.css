@@ -154,6 +154,7 @@ body {
 
 .flash-img {
     height: 100%;
+    width: auto;
 }
 
 /*** BASIC LAYOUT: FOOTER ***/
@@ -301,6 +302,8 @@ h6 {
 
 img {
     max-width: 100%;
+    height: auto;
+    width: auto;
 }
 
 hr {
@@ -365,6 +368,7 @@ abbr {
 .image img {
     display: block;
     width: 100%;
+    height: auto;
 }
 
 @media (max-width: 767px) {
